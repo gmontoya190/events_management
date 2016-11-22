@@ -37,11 +37,11 @@
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [
-    "ios",
+    "android",
     {
-      "platform": "ios",
+      "platform": "android",
       "version": "",
-      "locator": "ios"
+      "locator": "android"
     }
   ],
   "description": "events_management2: An Ionic project"
